@@ -33,6 +33,8 @@ These circumstances may include but are not limited to natural disasters, war, c
 
 If the Client wishes to cancel the Services, they must provide the Lighting Designer with at least 14 days written notice.
 In case of cancellation, any costs incurred or commitments entered into by the Lighting Designer up to the point of cancellation will be invoiced to the Client.
+If the cancellation notice is received less than 14 days before the scheduled event or service date, the Client will be responsible for paying the full agreed-upon fee unless otherwise agreed upon in writing between the Client and Lighting Designer.
+Any outstanding payments for services rendered up to the point of cancellation will be due immediately upon receipt of invoice.
 
 # Dispute Resolution:
  
@@ -51,6 +53,16 @@ Any changes to this Agreement must be agreed to in writing by both parties.
 
 # Severability:
 
-
 If any section, clause, provision or sentence of this Agreement is held to be invalid or unenforceable for any reason, such invalidity or unenforceability shall not affect the validity or enforceability of the remaining parts of this Agreement.
 If any part of this Agreement is found to be unenforceable, the remainder of the Agreement will continue in effect as if such portion had not been included, and the parties agree to replace the unenforceable part with an enforceable clause that as closely as possible reflects the original intent of the parties.
+
+# Hired Equipment:
+
+The Lighting Designer may provide equipment on a rental basis for the duration of the Services.
+The Client agrees to take full responsibility for the care, maintenance, and safekeeping of the hired equipment during the rental period.
+The Client shall return all hired equipment in the same condition as received, normal wear and tear excepted, by the agreed-upon deadline following the completion or cancellation of the Services.
+In the event of loss, damage, or theft of the hired equipment while under the Client's care, the Client will be responsible for reimbursing the Lighting Designer for the repair or replacement cost of the equipment.
+If the Client wishes to cancel the Services after the equipment has been reserved or rented on their behalf, the Lighting Designer retains the right to invoice the Client for all costs incurred in securing or reserving the equipment.
+The Lighting Designer shall not be liable for any issues or technical difficulties arising from the use of the hired equipment, except in cases where the equipment is found to be faulty upon rental.
+Any additional terms and conditions specific to the hiring of equipment will be outlined in a separate equipment rental agreement, which will be provided to the Client before the rental period begins.
+The terms of the equipment rental agreement will be deemed an integral part of this cancellation policy.
