@@ -6,7 +6,7 @@ After 31 days past the invoice due date (61st day overall), if it remains unpaid
 
 # Travel Expenses:
 
-A charge of £0.45 per mile will be added to invoices to cover the costs of car travel incurred by the Lighting Designer in the performance of the Services.
+A charge of £0.45 per mile will be added to invoices to cover the costs of car travel incurred by the contractor in the performance of the Services.
 This rate applies to all motor travel related to the provision of the Services, irrespective of the type of vehicle used or the time of day or night at which the travel occurs.
 
 # Parking:
@@ -22,7 +22,7 @@ Both parties agree to keep confidential any information obtained about the other
 
 # Liability Limitations:
 
-The Lighting Designer's total liability for any loss or damage caused by its services or its failure to perform services will not exceed the amount of fees paid by the Client.
+The contractor's total liability for any loss or damage caused by its services or its failure to perform services will not exceed the amount of fees paid by the Client.
 
 # Force Majeure:
 
@@ -31,9 +31,9 @@ These circumstances may include but are not limited to natural disasters, war, c
 
 # Cancellation Policy:
 
-If the Client wishes to cancel the Services, they must provide the Lighting Designer with at least 14 days written notice.
-In case of cancellation, any costs incurred or commitments entered into by the Lighting Designer up to the point of cancellation will be invoiced to the Client.
-If the cancellation notice is received less than 14 days before the scheduled event or service date, the Client will be responsible for paying the full agreed-upon fee unless otherwise agreed upon in writing between the Client and Lighting Designer.
+If the Client wishes to cancel the Services, they must provide the contractor with at least 14 days written notice.
+In case of cancellation, any costs incurred or commitments entered into by the contractor up to the point of cancellation will be invoiced to the Client.
+If the cancellation notice is received less than 14 days before the scheduled event or service date, the Client will be responsible for paying the full agreed-upon fee unless otherwise agreed upon in writing between the Client and contractor.
 Any outstanding payments for services rendered up to the point of cancellation will be due immediately upon receipt of invoice.
 
 # Dispute Resolution:
@@ -43,8 +43,8 @@ If the dispute cannot be resolved in this manner, it will be referred to mediati
 
 # Independent Contractor:
 
-The Lighting Designer is an independent contractor, not an employee of the Client.
-The Lighting Designer retains control over the means and methods of the Services and is responsible for their own business expenses and taxes.
+The contractor is an independent contractor, not an employee of the Client.
+The contractor retains control over the means and methods of the Services and is responsible for their own business expenses and taxes.
 
 # Entire Agreement:
 
@@ -58,11 +58,11 @@ If any part of this Agreement is found to be unenforceable, the remainder of the
 
 # Hired Equipment:
 
-The Lighting Designer may provide equipment on a rental basis for the duration of the Services.
+The contractor may provide equipment on a rental basis for the duration of the Services.
 The Client agrees to take full responsibility for the care, maintenance, and safekeeping of the hired equipment during the rental period.
 The Client shall return all hired equipment in the same condition as received, normal wear and tear excepted, by the agreed-upon deadline following the completion or cancellation of the Services.
-In the event of loss, damage, or theft of the hired equipment while under the Client's care, the Client will be responsible for reimbursing the Lighting Designer for the repair or replacement cost of the equipment.
-If the Client wishes to cancel the Services after the equipment has been reserved or rented on their behalf, the Lighting Designer retains the right to invoice the Client for all costs incurred in securing or reserving the equipment.
-The Lighting Designer shall not be liable for any issues or technical difficulties arising from the use of the hired equipment, except in cases where the equipment is found to be faulty upon rental.
+In the event of loss, damage, or theft of the hired equipment while under the Client's care, the Client will be responsible for reimbursing the contractor for the repair or replacement cost of the equipment.
+If the Client wishes to cancel the Services after the equipment has been reserved or rented on their behalf, the contractor retains the right to invoice the Client for all costs incurred in securing or reserving the equipment.
+The contractor shall not be liable for any issues or technical difficulties arising from the use of the hired equipment, except in cases where the equipment is found to be faulty upon rental.
 Any additional terms and conditions specific to the hiring of equipment will be outlined in a separate equipment rental agreement, which will be provided to the Client before the rental period begins.
 The terms of the equipment rental agreement will be deemed an integral part of this cancellation policy.
